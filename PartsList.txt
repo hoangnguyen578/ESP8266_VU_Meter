@@ -1,0 +1,8 @@
+ESP8266 VU Meter
+
+Parts list:
+- Kit ESP8266:	https://bit.ly/31FgyEp
+- Led WS2812B:	https://bit.ly/31C0qnC
+- Sound sensor:	https://bit.ly/2ScCQba
+
+Resource: https://github.com/aemaker/ESP8266_VU_Meter
